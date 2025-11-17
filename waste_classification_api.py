@@ -5,7 +5,6 @@
 !pip install kagglehub
 
 import kagglehub
-
 # Download latest version
 path = kagglehub.dataset_download("techsash/waste-classification-data")
 
